@@ -1,2 +1,2 @@
 # viewComicSupport
-ease to use see comic book in mac os
+easy to use when see comic book in mac os
